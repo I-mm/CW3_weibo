@@ -126,9 +126,14 @@ for row in reader:
 
 See [data_analysis.ipynb](https://github.com/I-mm/CW3_weibo/blob/master/data_analysis.ipynb).
 
-Also, in folder [dataAnalysis_output](https://github.com/I-mm/CW3_weibo/tree/master/dataAnalysis_output), there are complete data obtained from the sql statements in [data_analysis.ipynb](https://github.com/I-mm/CW3_weibo/blob/master/data_analysis.ipynb). 
+> Also, in folder [dataAnalysis_output](https://github.com/I-mm/CW3_weibo/tree/master/dataAnalysis_output), there are complete data obtained from the sql statements in [data_analysis.ipynb](https://github.com/I-mm/CW3_weibo/blob/master/data_analysis.ipynb). 
+>
+> Collection of sql statements: [cw3_weibo.sql](https://github.com/I-mm/CW3_weibo/blob/master/cw3_weibo.sql). 
 
-Collection of sql statements: [cw3_weibo.sql](https://github.com/I-mm/CW3_weibo/blob/master/cw3_weibo.sql). 
+About Task 5: 
+
+- Codes that generate the relationship map: [draw_relationshipMap.py](https://github.com/I-mm/CW3_weibo/blob/master/draw_relationshipMap.py). 
+- Relationship map: [relationship_map.png](https://github.com/I-mm/CW3_weibo/blob/master/dataAnalysis_output/relationship_map.png). 
 
 <br>
 
