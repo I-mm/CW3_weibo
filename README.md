@@ -7,7 +7,7 @@ See this project at [CW3-weibo](https://github.com/I-mm/CW3-weibo).
 There are four csv files, *follower_followee*, *post*, *user_post*, *weibo_user*. And complete the following task: 
 
 1.  Design the database table based on the four files, and transform the data into the database. (See at [csv1ToDB.py](https://github.com/I-mm/CW3_weibo/blob/master/csv1ToDB.py), [csv2ToDB.py](https://github.com/I-mm/CW3_weibo/blob/master/csv2ToDB.py), [csv3ToDB.py](https://github.com/I-mm/CW3_weibo/blob/master/csv3ToDB.py), [csv4ToDB.py](https://github.com/I-mm/CW3_weibo/blob/master/csv4ToDB.py). )
-2.  Describe the relationship of the tables, and draw the ER map. (See at [ER map](https://github.com/I-mm/CW3_weibo#er_map))
+2.  Describe the relationship of the tables, and draw the ER map. (See at [ER map](https://github.com/I-mm/CW3_weibo#er-map))
 3.  Complete the following task. (See at [data_analysis.ipynb](https://github.com/I-mm/CW3_weibo/blob/master/data_analysis.ipynb).)
    - Find the content posted by the people who have more than 1000 followers
    - Research the law and features of the content which post_number is more than 5.
@@ -92,7 +92,7 @@ sql_createTb = "CREATE TABLE weibo_user(user_id varchar(40) primary key," \
                                                 "followee_num int," \
                                                 "is_spammer int)CHARSET=utf8 COLLATE=utf8_bin;"
 ```
-- Insert operation *(Here we take the example of table **follower_followee**)*
+- Insert operation *(Here we take the table **follower_followee** for example)*
 
 ```python
 line_num = 1
