@@ -1,6 +1,6 @@
 # Coursework 3: Weibo's data analysis
 
-See this project at [CW3-weibo](https://github.com/I-mm/CW3-weibo). 
+See this project at [CW3_weibo](https://github.com/I-mm/CW3_weibo). 
 
 **Coursework requirements:** 
 
